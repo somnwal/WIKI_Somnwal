@@ -21,12 +21,3 @@ OS 13 부터
 <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
 ```
 
-
-
-## 트러블 슈팅
-
-### recyclerView Fragment에서 동작 안하는 현상
-
-```
-레이아웃 xml 이 잘려있었다. 필히 확인할 것!!!
-```
