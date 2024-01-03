@@ -8,6 +8,7 @@
     * [CardView](undefined/3-xml/cardview.md)
     * [RecyclerView](undefined/3-xml/recyclerview.md)
     * [DrawerLayout](undefined/3-xml/drawerlayout.md)
+    * [Marquee](undefined/3-xml/marquee.md)
   * [4️⃣ 프래그먼트](undefined/4/README.md)
     * [BottomSheet](undefined/4/bottomsheet.md)
   * [Gradle](undefined/gradle/README.md)
